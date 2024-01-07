@@ -1,5 +1,5 @@
-# bike-sales-analysis-prediction
-Predicting Bike Sales in the US Market with Machine Learning
+# bike-demand-analysis-prediction
+Predicting Bike demand in the US Market with Machine Learning
 Certainly! Let's explore the objective, output, and a real-life use case for Linear Regression in the context of bike-sharing demand prediction:
 
 ### Objective:
